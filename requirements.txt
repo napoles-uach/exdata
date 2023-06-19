@@ -1,4 +1,4 @@
-aspose-pdf
+camelot
 openai
 langchain
 pandas
